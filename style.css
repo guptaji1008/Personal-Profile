@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Roboto+Mono:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+#navbar-example2 {
+    position: sticky;
+    top: 0;
+}
+
+.heading {
+    font-family: 'Abril Fatface', cursive;
+    text-decoration-line: underline;
+}
+
+.homepage {
+    height: 80vh;
+    width: 80vw;
+    margin: auto;
+    margin-bottom: 14vh;
+    margin-top: 5vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro {
+    height: 80vh;
+    width: 36vw;
+}
+
+.intro div {
+    margin: 20vh auto;
+}
+
+.photo {
+    height: 80vh;
+    width: 36vw;
+}
+
+#hiIam {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 2rem;
+    margin: 0;
+}
+
+#name {
+    font-family: 'Merriweather', serif;
+    font-size: 3rem;
+    margin: 0;
+}
+#work {
+    font-size: 1rem;
+    font-family: 'Merriweather', serif;
+}
+
+#brand {
+    font-family: 'Kanit', sans-serif;
+    font-weight: bold;
+}
+
+.aboutpage {
+    margin: auto;
+    margin-bottom: 14vh;
+    margin-top: 5vh;
+}
+
+.aboutlist ul li{
+    margin: 5vh 5vw;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.aboutstyle {
+    font-size: 1.5rem;
+    font-family: 'Merriweather', serif;
+    margin-left: 20px;
+    font-weight: normal;
+}
+
+
+
+.skilllist {
+    display: flex;
+}
+
+.progress {
+    width: 70vw;
+    margin-top: 12px;
+}
+
+.myskills {
+    font-size: 1.5rem;
+    font-weight: bold;
+    width: 10vw;
+}
+
+.skillpage ul li {
+    margin: 4vh 4vw;
+}
+
+.skillpage {
+    margin-bottom: 14vh;
+    margin-top: 5vh;
+}
+
+.certpage {
+    margin-top: 5vh;
+    margin-bottom: 14vh;
+}
+
+.certUnderDiv {
+    width: 89vw;
+    margin: auto;
+    margin-bottom: 8vh;
+    display: flex;
+    justify-content: space-between;
+}
+
